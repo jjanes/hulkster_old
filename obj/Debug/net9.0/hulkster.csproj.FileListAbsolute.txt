@@ -1,0 +1,14 @@
+/mnt/c/projects/dotnet/hulkster/bin/Debug/net9.0/hulkster
+/mnt/c/projects/dotnet/hulkster/bin/Debug/net9.0/hulkster.deps.json
+/mnt/c/projects/dotnet/hulkster/bin/Debug/net9.0/hulkster.runtimeconfig.json
+/mnt/c/projects/dotnet/hulkster/bin/Debug/net9.0/hulkster.dll
+/mnt/c/projects/dotnet/hulkster/bin/Debug/net9.0/hulkster.pdb
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.AssemblyInfoInputs.cache
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.AssemblyInfo.cs
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.csproj.CoreCompileInputs.cache
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.dll
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/refint/hulkster.dll
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.pdb
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/hulkster.genruntimeconfig.cache
+/mnt/c/projects/dotnet/hulkster/obj/Debug/net9.0/ref/hulkster.dll
