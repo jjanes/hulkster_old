@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\dotnet\\hulkster\\hulkster.csproj": {}
+    "/mnt/c/projects/dotnet/hulkster/hulkster.csproj": {}
   },
   "projects": {
-    "c:\\projects\\dotnet\\hulkster\\hulkster.csproj": {
+    "/mnt/c/projects/dotnet/hulkster/hulkster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\dotnet\\hulkster\\hulkster.csproj",
+        "projectUniqueName": "/mnt/c/projects/dotnet/hulkster/hulkster.csproj",
         "projectName": "hulkster",
-        "projectPath": "c:\\projects\\dotnet\\hulkster\\hulkster.csproj",
-        "packagesPath": "C:\\Users\\john\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\dotnet\\hulkster\\obj\\",
+        "projectPath": "/mnt/c/projects/dotnet/hulkster/hulkster.csproj",
+        "packagesPath": "/home/john/.nuget/packages/",
+        "outputPath": "/mnt/c/projects/dotnet/hulkster/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\john\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/john/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -65,6 +65,18 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -83,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/john/.dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hulkster")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+52b5f534913a421089fd8574a876213fa917d036")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b42870315d9c25dd3ecbac63f3bfd7581da293df")]
 [assembly: System.Reflection.AssemblyProductAttribute("hulkster")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hulkster")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
