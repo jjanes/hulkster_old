@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/projects/dotnet/hulkster/hulkster.csproj": {}
+    "c:\\projects\\dotnet\\hulkster\\hulkster.csproj": {}
   },
   "projects": {
-    "/mnt/c/projects/dotnet/hulkster/hulkster.csproj": {
+    "c:\\projects\\dotnet\\hulkster\\hulkster.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/projects/dotnet/hulkster/hulkster.csproj",
+        "projectUniqueName": "c:\\projects\\dotnet\\hulkster\\hulkster.csproj",
         "projectName": "hulkster",
-        "projectPath": "/mnt/c/projects/dotnet/hulkster/hulkster.csproj",
-        "packagesPath": "/home/john/.nuget/packages/",
-        "outputPath": "/mnt/c/projects/dotnet/hulkster/obj/",
+        "projectPath": "c:\\projects\\dotnet\\hulkster\\hulkster.csproj",
+        "packagesPath": "C:\\Users\\john\\.nuget\\packages\\",
+        "outputPath": "c:\\projects\\dotnet\\hulkster\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/john/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\john\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -47,6 +47,24 @@
             "Discord.Net": {
               "target": "Package",
               "version": "[3.16.0, )"
+            },
+            "Discord.Net.Commands": {
+              "target": "Package",
+              "version": "[3.16.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -65,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
